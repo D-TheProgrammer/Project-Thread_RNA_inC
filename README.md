@@ -66,29 +66,6 @@ gcc -g -pthread Projet_RNA.c -o Projet_RNA
 ./Projet_RNA.exe
 ```
 
-
-## Comment exécuter le projet ?
-### Lancement du serveur :
-```sh
-gcc -o serveur serveur.c
-./serveur
-```
-
-### Lancement du client :
-```sh
-gcc -o client client.c
-./client
-```
-
-### Lancement du client :
-```sh
-RNA      # Entraînement et test du réseau de neurones
-IMAGE    # Envoi d’une image au serveur
-VIDEO    # Envoi d’une vidéo au serveur
-COMPTER  # Comptage des mots dans un message
-QUITTER  # Fermeture de la connexion
-```
-
 ## Détails Techniques
 - Sockets : Communication TCP entre client et serveur.
 - Threads : Gestion parallèle des calculs.
@@ -154,28 +131,6 @@ gcc -g -pthread Thread_porteLogique.c -o Thread_porteLogique
 ```sh
 gcc -g -pthread Projet_RNA.c -o Projet_RNA
 ./Projet_RNA.exe
-```
-
-## How to run the project?
-### Server launch:
-```sh
-gcc -o server server.c
-./server
-```
-
-### Client launch:
-```sh
-gcc -o client client.c
-./client
-```
-
-### Client launch:
-```sh
-RNA # Training and testing the neural network
-IMAGE # Sending an image to the server
-VIDEO # Sending a video to the server
-COUNT # Counting words in a message
-QUIT # Closing the connection
 ```
 
 ## Technical details
