@@ -4,6 +4,11 @@
 [French] Application permettant de simuler des portes logiques avec des threads, un réseau de neurones artificiels et un système client-serveur via sockets.  
 [English] An application to simulate logic gates using threads, an artificial neural network, and a client-server system via sockets.
 
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![Threads](https://img.shields.io/badge/Threads-Parallel_Computing-blue)
+![Neural Network](https://img.shields.io/badge/AI-Neural_Network-orange)
+![Logic Gates](https://img.shields.io/badge/Logic-Gates-green)
+![Status](https://img.shields.io/badge/Status-Complete-success)
 
 ## SOMMAIRE / SUMMARY  
 - [Présentation en français / Presentation in French](#français)  
